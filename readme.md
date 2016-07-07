@@ -1,7 +1,7 @@
 Grove - High Temperature Sensor
 ---
 
-**SKU**: [111020002](https://www.seeedstudio.com/item_detail.html?p_id=2546)
+**SKU**: [111020002](https://www.seeedstudio.com/item_detail.html?p_id=1810)
 
 **Wiki Link**: [wiki.seeed.cc](http://wiki.seeed.cc)
 
