@@ -10,15 +10,15 @@ Thermocouples are very sensitive, requiring a good amplifier with a cold - compe
 [![enter image description here](http://www.seeedstudio.com/wiki/images/thumb/d/d0/Get_One_Now_Banner.png/150px-Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/Breakout-for-LinkIt-Smart-7688-v20-p-2641.html)
 
 ## Specifications ##
-|---|---|
-|:---|:---:|
-|**Voltage**|3.3V ~ 5V|
-|**Max power rating at 25℃** |300mW|
-|**Operating temperature range**|-40℃ ~ +125 ℃|
-|**Range of temperature measurement** | -50℃ ~ +600 ℃|
-|**Amplifier output voltage range** | 0 ~ 3.3 mV |
-|**Thermocouple temperature measurement accuracy** | ± (2.0% + 2 ℃)|
-|**Cold junction compensation** (environment temperature measurement) |
+|---|---
+|:---|:---:
+|**Voltage**|3.3V ~ 5V
+|**Max power rating at 25℃** |300mW
+|**Operating temperature range**|-40℃ ~ +125 ℃
+|**Range of temperature measurement** | -50℃ ~ +600 ℃
+|**Amplifier output voltage range** | 0 ~ 3.3 mV 
+|**Thermocouple temperature measurement accuracy** | ± (2.0% + 2 ℃)
+|**Cold junction compensation** (environment temperature measurement) 
 
 
 ## Getting Started ##
