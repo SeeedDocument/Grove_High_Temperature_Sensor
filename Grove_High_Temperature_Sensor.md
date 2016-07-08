@@ -7,7 +7,7 @@
 
 Thermocouples are very sensitive, requiring a good amplifier with a cold - compensation reference. The Grove - Temperature Sensor USES a K type thermocouple Temperature detection, with a Thermistor to detect The ambient Temperature as Temperature compensation. The detectable range of this Sensor is -50-600℃ , and The accuracy is ±(2.0% + 2℃)
 
-[![enter image description here](http://www.seeedstudio.com/wiki/images/thumb/d/d0/Get_One_Now_Banner.png/150px-Get_One_Now_Banner.png)](http://www.seeedstudio.com/depot/Breakout-for-LinkIt-Smart-7688-v20-p-2641.html)
+[![enter image description here](http://www.seeedstudio.com/wiki/images/thumb/d/d0/Get_One_Now_Banner.png/150px-Get_One_Now_Banner.png)](https://www.seeedstudio.com/item_detail.html?p_id=1810)
 
 ## Specifications ##
 |---|---
